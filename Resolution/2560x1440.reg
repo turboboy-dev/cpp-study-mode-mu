@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Webzen\Mu\Config]
+"Width"=dword:00000a00
+"Height"=dword:000005a0
